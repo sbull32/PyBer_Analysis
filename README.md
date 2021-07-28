@@ -9,7 +9,7 @@ After our analysis we were able to determine differences between the 3 types of 
 
 ![Summary](C:\Users\seanb\OneDrive\Documents\Data Analytics Bootcamp\Module 5\Pyber_Analysis\PyBer_Summary.png)
 
-![Summary](https://github.com/sbull32/PyBer_Analysis.git/Analysis/PyBer_summary.png)
+![Summary](..Analysis/PyBer_summary.png)
 
 ---
 
