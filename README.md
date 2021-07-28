@@ -17,7 +17,7 @@ Included in our analysis is a summary of the total weekly fares by city type for
 
 ![Fares_Summary](C:\Users\seanb\OneDrive\Documents\Data Analytics Bootcamp\Module 5\Pyber_Analysis\PyBer_fare_summary.png)
 
-![Fares Summary](https://github.com/sbull32/PyBer_Analysis.git/PyBer_fare_summary.png)
+![Fares Summary](https://github.com/sbull32/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 ---
 
