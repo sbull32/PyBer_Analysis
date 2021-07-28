@@ -8,13 +8,14 @@ The purpose of this project was to determine how our ride sharing program is wor
 After our analysis we were able to determine differences between the 3 types of cities PyBer operates in including number of rides, drivers, total fares, and average fares per driver/rider. Total rides, drivers, and fares were highest in the urban cities while the lowest rides, drivers and fares were located in rural cities. However the average fare per ride and per driver was highest in the rural cities and lowest in urban areas. The suburban city data was in between the rural and urban city types in all categories. 
 
 ![Summary](C:\Users\seanb\OneDrive\Documents\Data Analytics Bootcamp\Module 5\Pyber_Analysis\PyBer_Summary.png)
-![Summary](https://github.com/sbull32/PyBer_Analysis.git/Resources/PyBer_fare_summary.png)
+![Summary](https://github.com/sbull32/PyBer_Analysis.git/Analysis/PyBer_summary.png)
 
 Included in our analysis is a summary of the total weekly fares by city type for the months of January through April 2019
 
 ![Fares_Summary](C:\Users\seanb\OneDrive\Documents\Data Analytics Bootcamp\Module 5\Pyber_Analysis\PyBer_fare_summary.png)
-
+![Fares Summary](https://github.com/sbull32/PyBer_Analysis.git/Analysis/PyBer_fare_summary.png)
 ![Fares_Summary_Data](C:\Users\seanb\OneDrive\Documents\Data Analytics Bootcamp\Module 5\Pyber_Analysis\PyBer_Weekly_Fares.png)
+![Fares Summary Data](https://github.com/sbull32/PyBer_Analysis.git/Analysis/PyBer_Weekly_Fares.png)
 
 ## Summary
 Based on our analysis, I am recommending we do 3 things in order to address the disparities we are seeing among the city types. 
